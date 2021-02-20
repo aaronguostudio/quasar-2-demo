@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar 2.0 Experiment
+          Quasar 2.0 Experiment - hotfix
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
