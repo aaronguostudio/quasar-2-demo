@@ -28,7 +28,7 @@
           header
           class="text-grey-8"
         >
-          Essential Links - bugfix
+          Essential Links - feature
         </q-item-label>
 
         <EssentialLink
