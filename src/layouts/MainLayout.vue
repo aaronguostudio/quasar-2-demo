@@ -28,7 +28,7 @@
           header
           class="text-grey-8"
         >
-          Essential Links
+          Essential Links - feature - release
         </q-item-label>
 
         <EssentialLink
