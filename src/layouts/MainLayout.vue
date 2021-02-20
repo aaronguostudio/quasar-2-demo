@@ -14,8 +14,6 @@
         <q-toolbar-title>
           Quasar 2.0 Experiment
         </q-toolbar-title>
-
-        <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
